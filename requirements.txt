@@ -1,0 +1,10 @@
+datasketch
+Flask_Cors
+marshmallow
+ngrok
+peft
+sentence_transformers
+simhash
+trl
+wandb
+swanlab
